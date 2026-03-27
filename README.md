@@ -43,21 +43,6 @@ AI Call Sentiment Analyzer is a full-stack application that processes customer c
 
 ---
 
-## 📷 Screenshots
-
-### 🔑 Login Page
-
-*Add screenshot here*
-
-### 📊 Dashboard
-
-*Add screenshot here*
-
-### 📤 Upload Page
-
-*Add screenshot here*
-
----
 
 ## ▶️ How to Run
 
