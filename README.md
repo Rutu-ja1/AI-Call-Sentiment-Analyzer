@@ -1,7 +1,5 @@
 # AI-Call-Sentiment-Analyzer
 
-# AI Call Sentiment Analyzer
-
 ## 📌 Project Description
 
 AI Call Sentiment Analyzer is a full-stack application that processes customer call recordings, analyzes sentiment (Positive/Negative), and visualizes insights through an interactive dashboard. The system enables businesses to monitor customer interactions and evaluate agent performance effectively.
